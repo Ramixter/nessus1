@@ -32,7 +32,6 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-
         // docs: {
         //   sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
@@ -76,22 +75,11 @@ const config = {
           className: 'custom-navbar-logo-class',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
-            to: 'docs/category/tutorial---basics',
-            // Only one of "to" or "href" should be used
-            // href: 'https://www.facebook.com',
-            label: 'Introduction',
-            // Only one of "label" or "html" should be used
-            // html: '<b>Introduction</b>'
+            type: 'doc',
+            docId: 'intro',
             position: 'left',
-            // activeBaseRegex: 'docs/(next|v8)',
-            // target: '_blank',
+            label: "Let's Start",
           },
           // {
           //   type: 'docsVersionDropdown',
