@@ -69,14 +69,34 @@ const config = {
         logo: {
           alt: 'Ramiro Torres',
           src: 'img/1650555362623.jpg',
+          srcDark: 'img/1650555362623.jpg',
+          target: '_self',
+          width: 32,
+          height: 32,
+          className: 'custom-navbar-logo-class',
         },
         items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
           {
-            type: 'doc',
-            docId: 'intro',
+            to: 'docs/category/tutorial---basics',
+            // Only one of "to" or "href" should be used
+            // href: 'https://www.facebook.com',
+            label: 'Introduction',
+            // Only one of "label" or "html" should be used
+            // html: '<b>Introduction</b>'
             position: 'left',
-            label: 'Tutorial',
+            // activeBaseRegex: 'docs/(next|v8)',
+            // target: '_blank',
           },
+          // {
+          //   type: 'docsVersionDropdown',
+          //   position: 'right',
+          // },
           {
             type: 'localeDropdown',
             position: 'left',
