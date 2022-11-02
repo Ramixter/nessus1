@@ -32,6 +32,10 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: {
+          routeBasePath: '/docs/', // Serve the docs at the site's root
+          /* other docs plugin options */
+        },
         // docs: {
         //   sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
