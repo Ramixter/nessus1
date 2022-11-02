@@ -15,13 +15,13 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --search-local-modal-width: 480px;
-  --search-local-highlight-color: #5468ff;
+  /* --search-local-modal-width: 480px;
+  --search-local-highlight-color: #5468ff; */
 }
 
-html[data-theme="dark"] {
+/* html[data-theme="dark"] {
   --search-local-highlight-color: #d23669;
-}
+} */
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
