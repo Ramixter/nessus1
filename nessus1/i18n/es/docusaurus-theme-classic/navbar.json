@@ -22,5 +22,9 @@
   "item.label.Youtube": {
     "message": "Youtube",
     "description": "Navbar item with label Youtube"
+  },
+  "item.label.Introduction": {
+    "message": "Introducción",
+    "description": "Navbar item with label Introduction"
   }
 }
