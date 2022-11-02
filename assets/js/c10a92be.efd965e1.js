@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknessus_1=self.webpackChunknessus_1||[]).push([[4182],{728:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/nessus1/blog/tags/hola","allTagsPath":"/nessus1/blog/tags","count":1}')}}]);
