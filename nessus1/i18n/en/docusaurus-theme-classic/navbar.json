@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Ramiro Torres",
+    "description": "The title in the navbar"
+  },
+  "item.label.Introduction": {
+    "message": "Introduction",
+    "description": "Navbar item with label Introduction"
+  },
+  "item.label.Related": {
+    "message": "Related",
+    "description": "Navbar item with label Related"
+  },
+  "item.label.My Web": {
+    "message": "My Web",
+    "description": "Navbar item with label My Web"
+  },
+  "item.label.Google": {
+    "message": "Google",
+    "description": "Navbar item with label Google"
+  },
+  "item.label.Youtube": {
+    "message": "Youtube",
+    "description": "Navbar item with label Youtube"
+  }
+}
