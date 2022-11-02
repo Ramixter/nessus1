@@ -102,12 +102,12 @@ const config = {
             label: 'My Web',
             position: 'right',
           },
-          {
-            href: "https://github.com/Ramixter/",
-            position: "right",
-            className: "header-github-link",
-            "aria-label": "GitHub repository",
-          },
+          // {
+          //   href: "https://github.com/Ramixter/",
+          //   position: "right",
+          //   className: "header-github-link",
+          //   "aria-label": "GitHub repository",
+          // },
           {
             href: "https://es.linkedin.com/in/ramitorres",
             position: "right",
