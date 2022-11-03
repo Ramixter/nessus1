@@ -3,10 +3,6 @@
 
 # Production
 /build
-/blog
-/docs
-/src
-/static
 
 # Generated files
 .docusaurus
